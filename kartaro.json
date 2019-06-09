@@ -34,7 +34,7 @@
         "kvanto": 6,
         "img": "img/koorp.jpg",
         "koloro": "eogreen",
-        "teksto": "Se tio speco manĝas, via speco dekstre de ĝi ricevas 1 manĝon de la sama fonto.",
+        "teksto": "Se tiu speco manĝas, via speco dekstre de ĝi ricevas 1 manĝon de la sama fonto.",
         "dekstra": true,
         "maldekstra": false,
         "nurplanta": false
@@ -44,7 +44,7 @@
         "kvanto": 6,
         "img": "img/grupcxaso.jpg",
         "koloro": "eored",
-        "teksto": "Tio rabobesto adicias sian populacion al sia grandeco, kiam ĝi atakas aliajn bestojn.",
+        "teksto": "Tiu rabobesto adicias sian populacion al sia grandeco, kiam ĝi atakas aliajn bestojn.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": false
@@ -64,7 +64,7 @@
         "kvanto": 6,
         "img": "img/dika.jpg",
         "koloro": "eogreen",
-        "teksto": "Tio besto povas enteni la kvanton de manĝo same kiel sia grandeco por uzado en sekva rondo.",
+        "teksto": "Tiu besto povas enteni la kvanton de manĝo same kiel sia grandeco por uzado en sekva rondo.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": true
@@ -74,7 +74,7 @@
         "kvanto": 6,
         "img": "img/glutema.jpg",
         "koloro": "eogreen",
-        "teksto": "Se tio speco manĝas de la planta provizo, ĝi ricevas 2 manĝojn.",
+        "teksto": "Se tiu speco manĝas de la planta provizo, ĝi ricevas 2 manĝojn.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": false
@@ -84,7 +84,7 @@
         "kvanto": 6,
         "img": "img/kadavro.jpg",
         "koloro": "eogreen",
-        "teksto": "Tio besto ricevas 1 manĝon, ĉiam kiam alia besto estas sukcese atakata.",
+        "teksto": "Tiu besto ricevas 1 manĝon, ĉiam kiam alia besto estas sukcese atakata.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": false
@@ -94,7 +94,7 @@
         "kvanto": 6,
         "img": "img/grimpi.jpg",
         "koloro": "eogray",
-        "teksto": "Tio besto nur estas atakebla de rabobestoj kiuj ankaŭ estas grimpantoj.",
+        "teksto": "Tiu besto nur estas atakebla de rabobestoj kiuj ankaŭ estas grimpantoj.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": false
@@ -104,7 +104,7 @@
         "kvanto": 6,
         "img": "img/korno.jpg",
         "koloro": "eogray",
-        "teksto": "Atakantoj perdas 1 de sia populacio, kiam ĝi manĝas tio speco.",
+        "teksto": "Atakantoj perdas 1 de sia populacio, kiam ĝi manĝas tiun specon.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": false
@@ -114,7 +114,7 @@
         "kvanto": 6,
         "img": "img/grupo.jpg",
         "koloro": "eogray",
-        "teksto": "Tio speco nur estas atakebla, se la rabobesto estas pli grande je grandeco KAJ populacio.",
+        "teksto": "Tiu speco nur estas atakebla, se la rabobesto estas pli grande je grandeco KAJ populacio.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": false
@@ -124,7 +124,7 @@
         "kvanto": 6,
         "img": "img/testudo.jpg",
         "koloro": "eogray",
-        "teksto": "Por atakantoj tio besto havas tri pli da grandeco.",
+        "teksto": "Por atakantoj tiu besto havas tri pli da grandeco.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": false
@@ -134,7 +134,7 @@
         "kvanto": 6,
         "img": "img/simbioso.jpg",
         "koloro": "eogray",
-        "teksto": "Tio besto estas neatakebla, se via besto dekstre de ĝi estas pli grande.",
+        "teksto": "Tiu besto estas neatakebla, se via besto dekstre de ĝi estas pli grande.",
         "dekstra": true,
         "maldekstra": false,
         "nurplanta": false
@@ -144,7 +144,7 @@
         "kvanto": 6,
         "img": "img/kasxado.jpg",
         "koloro": "eogray",
-        "teksto": "Tio besto estas neatakebla, se la kvanto de manĝo samas la kvanto de la populacio.",
+        "teksto": "Tiu besto estas neatakebla, se la kvanto de manĝo samas la kvanto de la populacio.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": false
@@ -164,7 +164,7 @@
         "kvanto": 6,
         "img": "img/nestejo.jpg",
         "koloro": "eoyellow",
-        "teksto": "Se antaŭ la malkovro de la manĝkartojn ankoraŭ haveblas manĝon, tio speco kreskas 1 en sia populacio.",
+        "teksto": "Se antaŭ la malkovro de la manĝkartojn ankoraŭ haveblas manĝon, tiu speco kreskas 1 en sia populacio.",
         "dekstra": false,
         "maldekstra": false,
         "nurplanta": true
