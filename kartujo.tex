@@ -147,6 +147,13 @@
 	};
 }
 
+\newcommand{\mangxkvanto}[1]{
+	\node [inner sep=0pt] at (0.1*\cardwidth,0.93*\cardheight){
+		\includegraphics[width=0.9cm]{img/folio}
+	};
+	\node[align=left, text=white, font=\bfseries] at (0.095*\cardwidth,0.935*\cardheight) {#1};
+}
+
 %   Inhalt der Karte
 \newcommand{\cardcontent}[1]{
 	\begin{scope}[even odd rule]
