@@ -7,7 +7,8 @@
         "teksto": "Forĵetu karton de via mano.\\ Plantmanĝanto: Manĝu 2 aldonajn plantmanĝojn\\ Rabobesto: Ignoru 1 kapablon je ĉiuj aliaj specoj por tiu atako.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"-2":1, "-1":1, "4":1, "5":1, "6":1, "7":1}
     },
     {
         "title": "EMBUSKO",
@@ -17,7 +18,8 @@
         "teksto": "La rabobesto povas ataki bestojn protektataj de 'Avertkrio'.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"-3":1, "-2":1, "-1":1, "1":1, "2":1, "3":1}
     },
     {
         "title": "KOLEGO",
@@ -27,17 +29,19 @@
         "teksto": "Prenu 1 plantan manĝon de la provizo, kiam malkovriĝis la manĝkartoj.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": true
+        "nurplanta": true,
+        "mangxkvantoj": {"2":1, "3":1, "4":1, "7":1, "8":1, "9":1}
     },
     {
         "title": "KOOPERADO",
         "kvanto": 6,
         "img": "img/koorp.jpg",
         "koloro": "eogreen",
-        "teksto": "Se tio speco manĝas, via speco dekstre de ĝi ricevas 1 manĝon de la sama fonto.",
+        "teksto": "Se tiu speco manĝas, via speco dekstre de ĝi ricevas 1 manĝon de la sama fonto.",
         "dekstra": true,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"0":1, "3":2, "4":2, "5":1}
     },
     {
         "title": "GRUPĈASO",
@@ -47,7 +51,8 @@
         "teksto": "Tiu rabobesto adicias sian populacion al sia grandeco, kiam ĝi atakas aliajn bestojn.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"-3":1, "-2":1, "-1":1, "1":1, "2":1, "3":1}
     },
     {
         "title": "RABOBESTO",
@@ -57,7 +62,8 @@
         "teksto": "Devas ataki por manĝi. Devas esti pli granda por manĝi aliajn. Ne povas manĝi plantojn.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"0":2, "1":2, "2":2, "3":2, "4":2, "5":2, "6":2}
     },
     {
         "title": "GRASA REZERVO",
@@ -67,7 +73,8 @@
         "teksto": "Tiu besto povas enteni manĝokvanton sama kiel sia grandeco, por uzado en sekva rondo.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": true
+        "nurplanta": true,
+        "mangxkvantoj": {"-1":1, "0":1, "3":1, "4":2, "5":1}
     },
     {
         "title": "GLUTEMA",
@@ -77,7 +84,8 @@
         "teksto": "Se tiu speco manĝas el la planta provizo, ĝi ricevas 2 manĝojn.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"2":1, "3":1, "4":1, "5":1, "6":1, "7":1}
     },
     {
         "title": "KADAVROMANĜANTO",
@@ -87,7 +95,8 @@
         "teksto": "Tiu besto ricevas 1 manĝon, ĉiam kiam alia besto estas sukcese atakata.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"2":1, "3":1, "4":1, "5":1, "6":1, "7":1}
     },
     {
         "title": "GRIMPANTO",
@@ -97,7 +106,8 @@
         "teksto": "Tiu besto estas atakebla nur de rabobestoj kiuj ankaŭ estas grimpantoj.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"1":1, "2":1, "3":2, "4":1, "5":1}
     },
     {
         "title": "KORNOJ",
@@ -107,7 +117,8 @@
         "teksto": "Atakantoj perdas 1 de sia populacio, kiam ili manĝas tiun specon.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"1":1, "2":1, "3":2, "4":1, "5":1}
     },
     {
         "title": "GREGA PROTEKTO",
@@ -117,7 +128,8 @@
         "teksto": "Tiu speco nur estas atakebla, se la rabobesto estas pli granda je grandeco KAJ populacio.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"3":1, "4":2, "5":1, "6":1, "7":2, "8":1}
     },
     {
         "title": "KORNECA KIRASO",
@@ -127,7 +139,8 @@
         "teksto": "Por atakantoj tiu besto havas tri pli da grandeco.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"1":1, "2":1, "3":1, "4":2, "5":1}
     },
     {
         "title": "SIMBIOZO",
@@ -137,7 +150,8 @@
         "teksto": "Tiu besto ne atakeblas, se via besto dekstre de ĝi estas pli granda.",
         "dekstra": true,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"1":1, "2":1, "3":2, "4":1, "5":1}
     },
     {
         "title": "KAŜADO",
@@ -147,7 +161,8 @@
         "teksto": "Tiu besto ne atakeblas, se la manĝokvanto egalas la populacion.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"1":1, "2":1, "3":1, "4":2, "5":1}
     },
     {
         "title": "AVERTKRIO",
@@ -157,7 +172,8 @@
         "teksto": "Viaj apudaj bestoj atakeblas nur de bestoj, kiuj havas 'Embuskon'",
         "dekstra": true,
         "maldekstra": true,
-        "nurplanta": false
+        "nurplanta": false,
+        "mangxkvantoj": {"1":1, "2":1, "3":1, "4":2, "5":1}
     },
     {
         "title": "NASKEMA",
@@ -167,6 +183,7 @@
         "teksto": "Se antaŭ la malkovro de la manĝokartoj ankoraŭ haveblas manĝo, la populacio de tiu speco kreskas je 1.",
         "dekstra": false,
         "maldekstra": false,
-        "nurplanta": true
+        "nurplanta": true,
+        "mangxkvantoj": {"2":1, "3":1, "4":1, "5":1, "6":1, "7":1}
     }
 ]
